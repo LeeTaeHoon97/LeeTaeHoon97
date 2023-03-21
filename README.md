@@ -1,5 +1,5 @@
 # Lee Tae Hoon 😉
-![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTaeHoon97&show_icons=true&theme=radical)
+![LeeTaeHoon97's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTaeHoon97&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alfkaosxogns)](https://solved.ac/profile/alfkaosxogns)
 
 # 💪Skills
