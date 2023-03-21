@@ -2,6 +2,10 @@
 ![LeeTaeHoon97's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeTaeHoon97&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alfkaosxogns)](https://solved.ac/profile/alfkaosxogns)
 
+### Portfolio
+https://bit.ly/42orKmx
+
+
 # 💪Skills
 ### Platforms & Languages
 ##### 충분한 시간이 있다면 논문을 보고 모델을 구현 할 수 있으며 학습 중 오류가 생겨도 원인을 파악할 수 있어요. 소규모 스터디로 인공지능 논문을 리뷰 한 적 있어요.
