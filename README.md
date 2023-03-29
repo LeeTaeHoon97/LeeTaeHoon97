@@ -8,7 +8,8 @@ https://bit.ly/42orKmx
 
 # 💪Skills
 ### Platforms & Languages
-##### 충분한 시간이 있다면 논문을 보고 모델을 구현 할 수 있으며 학습 중 오류가 생겨도 원인을 파악할 수 있어요. 소규모 스터디로 인공지능 논문을 리뷰 한 적 있어요.
+##### 충분한 시간이 있다면 논문을 보고 모델을 구현 할 수 있으며 학습 중 오류가 생겨도 원인을 파악할 수 있어요. 
+##### 소규모 스터디로 인공지능 논문을 리뷰 한 적 있어요.
 ##### 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
