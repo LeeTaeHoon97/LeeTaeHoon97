@@ -3,7 +3,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alfkaosxogns)](https://solved.ac/profile/alfkaosxogns)
 
 # Portfolio
-https://bit.ly/42orKmx
+https://steady-cabinet-511.notion.site/Get-Distance-From-Cam-PyTorch-e2eb54dc38504f8da8eb5e76aa7d5303
 
 
 # 💪Skills
